@@ -1,0 +1,6 @@
+let nomeDEalunos = ["caique","tiago", "or"]
+
+for (let nome of nomeDEalunos){
+    console.log(`esta pessoa se chama ${nome}`)
+
+}
